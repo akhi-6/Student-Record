@@ -49,8 +49,3 @@ To exit the program, press `Ctrl + C`.
 No external dataset is used.
 All student data is entered dynamically by the user and stored in `data.txt`.
 
-
-# Team Name: CodeTrio
-G.Teja Pravallika
-B.Akhila
-K.Priya 
