@@ -1,0 +1,3 @@
+105,Akhila,20,CSM-A
+106,Pravalli,20,CSM-A
+107,Priya,19,CSM-B
